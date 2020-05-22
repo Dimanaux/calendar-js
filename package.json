@@ -1,0 +1,16 @@
+{
+  "name": "calendar",
+  "version": "1.0.0",
+  "description": "Demonstrating how to test code",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "javascript",
+    "tests",
+    "node"
+  ],
+  "author": "Dmitry Barskov <dmitry.barskov64@gmail.com>",
+  "license": "MIT"
+}
