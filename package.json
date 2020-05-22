@@ -4,7 +4,7 @@
   "description": "Demonstrating how to test code",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "jest"
   },
   "keywords": [
     "javascript",
@@ -12,5 +12,8 @@
     "node"
   ],
   "author": "Dmitry Barskov <dmitry.barskov64@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
 }
